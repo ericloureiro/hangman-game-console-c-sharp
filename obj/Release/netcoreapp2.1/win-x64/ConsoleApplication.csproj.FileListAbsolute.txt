@@ -1,0 +1,14 @@
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.exe
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.deps.json
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.runtimeconfig.json
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.dll
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\bin\Release\netcoreapp2.1\win-x64\ConsoleApplication.pdb
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.AssemblyInfo.cs
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.dll
+C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Release\netcoreapp2.1\win-x64\ConsoleApplication.pdb
