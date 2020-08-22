@@ -735,11 +735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elour\\source\\repos\\ConsoleApplication\\ConsoleApplication\\HangmanGame.csproj",
+      "projectUniqueName": "C:\\Users\\elour\\Desktop\\hangman-game\\HangmanGame.csproj",
       "projectName": "HangmanGame",
-      "projectPath": "C:\\Users\\elour\\source\\repos\\ConsoleApplication\\ConsoleApplication\\HangmanGame.csproj",
+      "projectPath": "C:\\Users\\elour\\Desktop\\hangman-game\\HangmanGame.csproj",
       "packagesPath": "C:\\Users\\elour\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elour\\source\\repos\\ConsoleApplication\\ConsoleApplication\\obj\\",
+      "outputPath": "C:\\Users\\elour\\Desktop\\hangman-game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

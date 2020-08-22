@@ -9,3 +9,14 @@ C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\netc
 C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.1\HangmanGame.AssemblyInfo.cs
 C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.1\HangmanGame.dll
 C:\Users\elour\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp2.1\HangmanGame.pdb
+C:\Users\elour\Desktop\hangman-game\bin\Debug\netcoreapp2.1\HangmanGame.deps.json
+C:\Users\elour\Desktop\hangman-game\bin\Debug\netcoreapp2.1\HangmanGame.runtimeconfig.json
+C:\Users\elour\Desktop\hangman-game\bin\Debug\netcoreapp2.1\HangmanGame.runtimeconfig.dev.json
+C:\Users\elour\Desktop\hangman-game\bin\Debug\netcoreapp2.1\HangmanGame.dll
+C:\Users\elour\Desktop\hangman-game\bin\Debug\netcoreapp2.1\HangmanGame.pdb
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.csprojAssemblyReference.cache
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.AssemblyInfo.cs
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.dll
+C:\Users\elour\Desktop\hangman-game\obj\Debug\netcoreapp2.1\HangmanGame.pdb
