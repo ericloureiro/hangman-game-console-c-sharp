@@ -9,6 +9,14 @@ namespace HangmanGame
     /// </summary>
     class DBController
     {
+        // TODO: add a better approach on how to handle idiom in a non hard coded way w/ json files
+        private static Idiom currentIdiom = Idiom.Portuguese;
+
+        enum Idiom
+        {
+            Portuguese,
+            English
+        }
         /// <summary>
         /// Fetch json from project/bin/words.json
         /// </summary>
@@ -17,8 +25,8 @@ namespace HangmanGame
         {
             string workingDirectory = Environment.CurrentDirectory;
             string projectDirectory = Directory.GetParent(workingDirectory).Parent.FullName;
-
-            using (StreamReader r = new StreamReader(string.Concat(projectDirectory, "/words.json")))
+            string jsonDirectory = string.Concat(projectDirectory, currentIdiom == Idiom.English ? "/words.json" : "/words-portuguese.json");
+            using (StreamReader r = new StreamReader(jsonDirectory))
             {
                 string json = r.ReadToEnd();
 
@@ -26,11 +34,11 @@ namespace HangmanGame
                 {
                     return JsonConvert.DeserializeObject<string[]>(json);
                 }
-                catch
+                catch(Exception e)
                 {
                     throw new FileNotFoundException("Could not find words.json on project/bin folder or it may be on a wrong json format.");
                 }
             }
         }
     }
-}
+}                          

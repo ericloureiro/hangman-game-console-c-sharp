@@ -61,7 +61,7 @@ namespace HangmanGame
                 if (!IsLeftAnyLetter(model.awnserEncrypted))
                 {
                     GameView.PrintAfterClear("Congratulations, you won!",
-                        $"The word was:  {model.awnser}",
+                        $"The word was:  {model.awnser.ToUpper()}",
                         $"You had {trysLeft} chances left.",
                         "Send any text to startover.");
 
@@ -82,7 +82,7 @@ namespace HangmanGame
                 }
 
                 GameView.PrintAfterClear($"Chances left: {trysLeft}",
-                    $"Word: {model.awnserEncrypted}",
+                    $"Word: {model.awnserEncrypted.ToString().ToUpper()}",
                     $"Your wrong inputs: {displayedTrys}");
             };
 
